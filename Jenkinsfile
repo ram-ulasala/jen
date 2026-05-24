@@ -9,7 +9,7 @@ pipeline {
     }
     post {
         always {
-            echo 'I will ram hgfdf always say Hello again!'
+            echo 'I will ram hgfdfggf always say Hello again!'
         }
     }
 }
